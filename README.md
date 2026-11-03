@@ -1,31 +1,24 @@
-# Hi, I'm Kartik 👋
+# Kartik Agrawal
 
-I build AI-powered applications end to end: LLM and RAG pipelines, Python backends, and the apps people actually use.
+Third-year B.Tech student in Artificial Intelligence at NMIMS (MPSTME), Mumbai. I build applied ML and GenAI systems end to end, from the model to the backend it runs on, and I try to measure results honestly.
 
-- 🎓 B.Tech in Artificial Intelligence, graduating 2028
-- 🧠 Interested in applied GenAI, retrieval-augmented generation, and backend systems
-- 📫 [LinkedIn](https://www.linkedin.com/in/kartik-agrawal1/)
+Open to AI/ML engineering internships. [LinkedIn](https://www.linkedin.com/in/kartik-agrawal1/)
 
-## Tech I work with
+## Selected work
 
-- **Languages:** Python · Dart · JavaScript · SQL
-- **AI / ML:** Gemini (Vertex AI) · Hugging Face Transformers · Sentence-Transformers · FAISS · RAG
-- **Backend:** FastAPI · Firestore · SQLite · MySQL
-- **Cloud & tools:** Google Cloud (Cloud Run, Cloud Storage, Speech-to-Text) · Firebase · Git
-- **Frontend:** Flutter · HTML/CSS/JS
+**[Amazon ML Challenge 2026](https://github.com/kartik-agrawal-01/amazon-ml-2026)**: business entity resolution across about 24 million records from three sources (US, India, France). TF-IDF blocking, string and context features, and a LightGBM matcher. Team Nexus.
 
-## Featured projects
+**[Bankruptcy prediction from annual reports](https://github.com/ananya-baweja/bankruptcy-prediction)**: insolvency prediction for Indian listed companies from annual-report text and financial ratios. A FinBERT and BiGRU network averaged with gradient boosting reached PR-AUC 0.807 against 0.747 for ratios alone, plus a Green AI study of the energy each model needs. With Ananya Baweja.
 
-### 🧘 [Serene.ai](https://github.com/kartik-agrawal-01/serene-ai): Smart India Hackathon 2025 (MPSTME internal round)
-A mental-health companion for students. The chatbot uses retrieval-augmented generation (MiniLM embeddings, FAISS search, cross-encoder reranking, small open-source LLMs) with a crisis mode that shows helpline numbers and emails the user's trusted contacts. It also includes journaling, mood tracking, a peer community, and counsellor booking on a FastAPI backend.
+**[BoardroomXR](https://github.com/kartik-agrawal-01/BoardroomXR)**: continuous behavioural authentication in a VR boardroom on Meta Quest (Unity 6). Real-world error came out at 17 to 30% against under 5% in simulation, mostly because of posture. With Soha Chand, Atharv Dixit and Ojaswi Gondalia.
 
-**My role:** Built the Serene chatbot, including its RAG pipeline, and the chatbot backend; also contributed to the frontend.
+**[Serene.ai](https://github.com/kartik-agrawal-01/serene-ai)**: RAG chatbot for student mental health (MiniLM + FAISS, cross-encoder reranking) with a crisis mode that shows helpline numbers and emails trusted contacts. Built for the MPSTME round of Smart India Hackathon 2025; I built the chatbot and its backend.
 
-### 🪔 [AI Artisan Marketplace](https://github.com/kartik-agrawal-01/artisan-marketplace-ai): Gen AI Exchange Hackathon
-Helps local artisans sell online. Gemini rewrites product listings and SEO tags, Imagen turns phone photos into studio-style product shots, Speech-to-Text + Gemini converts an artisan's spoken story into a sales pitch, and an AI dashboard suggests pricing, bundles, and festival promotions. FastAPI on Cloud Run with a Flutter Web frontend.
+Also: [AlgoGuard](https://github.com/kartik-agrawal-01/algoguard) (trading engine with an enforced risk layer), [AI Artisan Marketplace](https://github.com/kartik-agrawal-01/artisan-marketplace-ai) (sole backend developer, Gemini and Imagen on Cloud Run), [credit card fraud detection](https://github.com/kartik-agrawal-01/credit-card-fraud-detection) and [fake news detection](https://github.com/kartik-agrawal-01/fake-news-detection).
 
-**My role:** Sole developer of the FastAPI backend, covering every API endpoint and the Gemini, Imagen, Speech-to-Text, Firestore, and Cloud Storage integrations.
+## Tools
 
----
-
-_Open to internships in AI/ML engineering and applied GenAI._
+- **Languages:** Python, SQL, JavaScript, Dart, C#
+- **ML and NLP:** Hugging Face Transformers, Sentence-Transformers, FAISS, LightGBM, XGBoost, scikit-learn
+- **Backend:** FastAPI, Firestore, MySQL
+- **Cloud and tools:** Google Cloud (Vertex AI, Cloud Run), Firebase, Unity, Git
