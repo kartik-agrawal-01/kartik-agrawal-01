@@ -17,7 +17,7 @@ I build AI-powered applications end to end: LLM and RAG pipelines, Python backen
 ## Featured projects
 
 ### 🧘 [Serene.ai](https://github.com/kartik-agrawal-01/serene-ai): Smart India Hackathon 2025
-A mental-health companion for students. The chatbot uses retrieval-augmented generation (MiniLM embeddings, FAISS search, cross-encoder reranking, small open-source LLMs) with a crisis-detection layer that surfaces helpline information. It also includes journaling, mood tracking, a peer community, and counsellor booking on a FastAPI backend.
+A mental-health companion for students. The chatbot uses retrieval-augmented generation (MiniLM embeddings, FAISS search, cross-encoder reranking, small open-source LLMs) with a crisis mode that shows helpline numbers and emails the user's trusted contacts. It also includes journaling, mood tracking, a peer community, and counsellor booking on a FastAPI backend.
 
 **My role:** Built the Serene chatbot, including its RAG pipeline, and the chatbot backend; also contributed to the frontend.
 
